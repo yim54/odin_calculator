@@ -28,6 +28,8 @@ body {
     border-radius: 8px;
     margin-bottom: 25px;
     border:  2px solid black;
+    font-size: 64px;
+    text-align: right;
 }
 
 #input {
